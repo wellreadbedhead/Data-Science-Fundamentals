@@ -1,2 +1,2 @@
 # Data-Science-Fundamentals
-Coursera
+This directory is for Coursera's Data Science Fundamentals with Python and SQL Specialization Certificate.
